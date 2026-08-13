@@ -28,4 +28,4 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest -v# Lab 10: GitHub Actions CI/CD workflow
+          pytest -v
