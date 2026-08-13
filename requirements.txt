@@ -1,7 +1,7 @@
 fastapi
 uvicorn[standard]
 sqlmodel
-bcrypt
+bcrypt==4.0.1
 passlib
 pytest
 httpx
